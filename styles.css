@@ -425,7 +425,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(17, 17, 17, 0.6) 100%
     ),
-    url("/images/pic2.jpg");
+    url("/pic2.jpg");
   background-size: cover;
   position: relative;
   color: var(--white);
@@ -437,7 +437,7 @@
       rgba(0, 0, 0, 0) 0%,
       rgba(17, 17, 17, 0.6) 100%
     ),
-    url("/images/pic3.jpg");
+    url("/pic3.jpg");
 }
 
 .services h2 {
